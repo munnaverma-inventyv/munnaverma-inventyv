@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Munna Verma <br><br>- 🔭 I’m working as software developer intern<br>- 📫 How to reach me munnaverma8780@gmail.com</p>
+<p align="left">I'm Munna Verma <br><br>- 🔭 I’m working as junior software developer <br>- 📫 How to reach me munnaverma8780@gmail.com</p>
 
 ###
 
